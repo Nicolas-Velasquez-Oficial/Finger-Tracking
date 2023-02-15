@@ -83,7 +83,7 @@ for i in range(1, 3):
                 print("  NEXT")
 
 
-act_mat = pd.DataFrame(MILISTA_SURV)
+survey_data = pd.DataFrame(MILISTA_SURV)
 prosocial_data = pd.DataFrame(MILISTA_PROSOCIAL)
 intertemp_data = pd.DataFrame(MILISTA_INTERTEMP)
 risk_data = pd.DataFrame(MILISTA_RISK)
@@ -91,13 +91,40 @@ prosocial_percep =pd.DataFrame(MILISTA_PROS_PERCEP)
 risk_percep =pd.DataFrame(MILISTA_RISK_PERCEP)
 temp_percep =pd.DataFrame(MILISTA_TEMP_PERCEP)
 
-act_mat.columns = ["ID", "Carrer", "semester",
+survey_data.columns = ["ID", "Carrer", "semester",
                    "age", "gender","Resp1","Resp2","Resp3","Resp4","Resp5","Resp6",
                    "Resp7","Resp8","Resp9","Resp10","Resp11","Resp12","Resp13","Resp14"]
 
+prosocial_percep.columns = ["subjID", "ROL", "task", "perception"]
+
+risk_percep.columns = ["subjID", "ROL", "task", "perception"]
+
+temp_percep.columns = ["subjID", "ROL", "task", "perception"]
 
 
+prosocial_data.columns = ["start_time","click_time","finger_time",
+                         "fix_duration","trial","RT","MT","xSR",
+                         "ySR","xT1","xT2","yT2","sideResp","xmouse","ymouse","timestamp_mouse",
+                          "ROL_YO","ROL_OTRO","choiceLeft_1", "choiceLeft_2","choiceRight_1",
+                          "choiceRight_2","subjID", "otherID","gender"]
+intertemp_data.columns = ["start_time","click_time","finger_time",
+                          "fix_duration","trial","RT","MT","xSR",
+                          "ySR","xT1","xT2","yT2","sideResp","xmouse",
+                          "ymouse","timestamp_mouse","ROL","choiceLeft","choiceRight_1",
+                          "choiceRight_2","subjID","risk","win_lose","otherID","gender"]
 
+risk_data.columns = ["start_time","click_time","finger_time","fix_duration","trial","RT","MT","xSR",
+                    "ySR","xT1","xT2","yT2","sideResp","xmouse","ymouse","timestamp_mouse",
+                     "ROL_YO","ROL_OTRO","choiceLeft", "choiceLeft","choiceRight_1","choiceRight_2","subjID",
+                     "otherID","gender"]
+
+survey_data.to_csv('survey.csv', index=False)
+prosocial_percep.to_csv('prosocial_percep.csv', index=False)
+risk_percep.to_csv('risk_percep.csv', index=False)
+temp_percep.to_csv('temp_percep.csv', index=False)
+prosocial_data.to_csv('prosocial_data.csv', index=False)
+intertemp_data.to_csv('intertemp_data.csv', index=False)
+risk_data.to_csv('risk_data.csv', index=False)
 
 
 
