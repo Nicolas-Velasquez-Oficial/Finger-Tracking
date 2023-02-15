@@ -118,13 +118,13 @@ risk_data.columns = ["start_time","click_time","finger_time","fix_duration","tri
                      "ROL_YO","ROL_OTRO","choiceLeft", "choiceLeft","choiceRight_1","choiceRight_2","subjID",
                      "otherID","gender"]
 
-survey_data.to_csv('survey.csv', index=False)
-prosocial_percep.to_csv('prosocial_percep.csv', index=False)
-risk_percep.to_csv('risk_percep.csv', index=False)
-temp_percep.to_csv('temp_percep.csv', index=False)
-prosocial_data.to_csv('prosocial_data.csv', index=False)
-intertemp_data.to_csv('intertemp_data.csv', index=False)
-risk_data.to_csv('risk_data.csv', index=False)
+survey_data.to_csv(r'..\Toda\Processed\survey.csv', index=False)
+prosocial_percep.to_csv(r'..\Toda\Processed\prosocial_percep.csv', index=False)
+risk_percep.to_csv(r'..\Toda\Processed\risk_percep.csv', index=False)
+temp_percep.to_csv(r'..\Toda\Processed\temp_percep.csv', index=False)
+prosocial_data.to_csv(r'..\Toda\Processed\prosocial_data.csv', index=False)
+intertemp_data.to_csv(r'..\Toda\Processed\intertemp_data.csv', index=False)
+risk_data.to_csv(r'..\Toda\Processed\risk_data.csv', index=False)
 
 
 
