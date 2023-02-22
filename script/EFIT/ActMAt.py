@@ -25,9 +25,8 @@ for i in range(1, 3):
                 with open(PATH) as datafile:
                     PROPERTIES = json.load(datafile)
             except  (IOError, KeyError ) as ex:
-
-                 found = False
-            print("not found")
+                found = False
+            print("found")
             if found == True:
               if x == "actMat":
 
@@ -69,7 +68,6 @@ for i in range(1, 3):
                                PROPERTIES[m]["choiceRight"][0],PROPERTIES[m]["choiceRight"][1],PROPERTIES[m]["subjID"],PROPERTIES[m]["risk"],PROPERTIES[m]["win_lose"],
                                PROPERTIES[m]["otherID"],PROPERTIES[m]["gender"]])
 
-
               if x == "PROSOCIAL_data":
                 for n in range(0, 24):
                     MILISTA_PROSOCIAL.append([PROPERTIES[n]["start_time"],PROPERTIES[n]["click_time"],PROPERTIES[n]["finger_time"],
@@ -108,23 +106,23 @@ prosocial_data.columns = ["start_time","click_time","finger_time",
                           "ROL_YO","ROL_OTRO","choiceLeft_1", "choiceLeft_2","choiceRight_1",
                           "choiceRight_2","subjID", "otherID","gender"]
 intertemp_data.columns = ["start_time","click_time","finger_time",
-                          "fix_duration","trial","RT","MT","xSR",
-                          "ySR","xT1","xT2","yT2","sideResp","xmouse",
-                          "ymouse","timestamp_mouse","ROL","choiceLeft","choiceRight_1",
-                          "choiceRight_2","subjID","risk","win_lose","otherID","gender"]
+                               "fix_duration","trial","RT","MT","xSR",
+                               "ySR","xT1","xT2","yT2",
+                               "sideResp","xmouse",
+                               "ymouse","timestamp_mouse",
+                               "ROL","choiceLeft",
+                               "choiceRight","subjID",
+                               "otherID","gender"]
 
 risk_data.columns = ["start_time","click_time","finger_time","fix_duration","trial","RT","MT","xSR",
                     "ySR","xT1","xT2","yT2","sideResp","xmouse","ymouse","timestamp_mouse",
                      "ROL_YO","ROL_OTRO","choiceLeft", "choiceLeft","choiceRight_1","choiceRight_2","subjID",
                      "otherID","gender"]
 
-survey_data.to_csv(r'..\Toda\Processed\survey.csv', index=False)
-prosocial_percep.to_csv(r'..\Toda\Processed\prosocial_percep.csv', index=False)
-risk_percep.to_csv(r'..\Toda\Processed\risk_percep.csv', index=False)
-temp_percep.to_csv(r'..\Toda\Processed\temp_percep.csv', index=False)
-prosocial_data.to_csv(r'..\Toda\Processed\prosocial_data.csv', index=False)
-intertemp_data.to_csv(r'..\Toda\Processed\intertemp_data.csv', index=False)
-risk_data.to_csv(r'..\Toda\Processed\risk_data.csv', index=False)
-
-
-
+survey_data.to_csv('survey.csv', index=False)
+prosocial_percep.to_csv('prosocial_percep.csv', index=False)
+risk_percep.to_csv('risk_percep.csv', index=False)
+temp_percep.to_csv('temp_percep.csv', index=False)
+prosocial_data.to_csv('prosocial_data.csv', index=False)
+intertemp_data.to_csv('intertemp_data.csv', index=False)
+risk_data.to_csv('risk_data.csv', index=False)
