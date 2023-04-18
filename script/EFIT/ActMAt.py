@@ -89,7 +89,7 @@ prosocial_percep =pd.DataFrame(MILISTA_PROS_PERCEP)
 risk_percep =pd.DataFrame(MILISTA_RISK_PERCEP)
 temp_percep =pd.DataFrame(MILISTA_TEMP_PERCEP)
 
-survey_data.columns = ["ID", "Carrer", "semester",
+survey_data.columns = ["ID", "career", "semester",
                    "age", "gender","Resp1","Resp2","Resp3","Resp4","Resp5","Resp6",
                    "Resp7","Resp8","Resp9","Resp10","Resp11","Resp12","Resp13","Resp14"]
 

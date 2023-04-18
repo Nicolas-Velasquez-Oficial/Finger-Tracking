@@ -38,3 +38,6 @@ switch analysis{1}
 end
 fprintf('\n');disp('==================================================================');
 end
+
+
+[results] = EMOT main(X,Y,{’single’ 13},true,[],opts)

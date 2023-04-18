@@ -15,7 +15,6 @@ k = find(res.xHist==median(res.xHist));
 xHist_zeta1 = res.xHist(1:k-1); xHist_zeta2 = res.xHist(k+1:end);
 
 
-
 %% Create figure
 close all
 hFig = figure(1);
@@ -71,8 +70,6 @@ text(0,0.6,['\zeta = ' num2str(res.zeta)],'Color','black','FontSize',fontText,'F
 text(1.4,0.55,['\zeta_{ 1} = ' num2str(res.zeta1)],'Color','black','FontSize',fontText,'FontName','Arial')
 text(0,0.35,['\zeta_{ 2} = ' num2str(res.zeta2)],'Color','black','FontSize',fontText,'FontName','Arial')
 text(1.4,0.4,['t = ' num2str(time(1)) ' (' num2str(time(2)) ') ms'],'Color','black','FontSize',fontText,'FontName','Arial')
-
-
 
 
 end
