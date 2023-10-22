@@ -1,0 +1,18 @@
+		(1)	(2)	(3)
+		csi_conviction	zeta1_conviction	zeta2_conviction
+VARIABLES	LABELS	csi_conviction	zeta1_conviction	zeta2_conviction
+				
+2.sideResp	sideResp = 2	-0.007	0.611***	-0.660***
+		(0.048)	(0.049)	(0.047)
+RT	RT	-0.000**	-0.000	0.000
+		(0.000)	(0.000)	(0.000)
+MT	MT	-0.000***	-0.000**	-0.000*
+		(0.000)	(0.000)	(0.000)
+Constant	Constant	0.125***	-0.260***	0.323***
+		(0.040)	(0.041)	(0.039)
+				
+Observations		2,313	2,313	2,313
+R-squared		0.034	0.081	0.094
+Number of id_2		264	264	264
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

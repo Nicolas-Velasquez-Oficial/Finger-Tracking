@@ -1,0 +1,25 @@
+\begin{tabular}{lrr}
+\toprule
+                                          Variable &  Chi-square &  p-value \\
+\midrule
+                                          semester &   29.593224 & 0.861716 \\
+                                               age &   44.338554 & 0.373325 \\
+                                            gender &    0.726642 & 0.993898 \\
+                                      From\_Capital &    0.135584 & 0.999951 \\
+                                    Father\_Capital &    0.643480 & 0.995631 \\
+                            Harmed by the conflict &  124.951114 & 0.999997 \\
+Affected physically/psycologically by the conflict &  115.564483 & 0.999797 \\
+      Affected directly/indirectly by the conflict &  150.695175 & 0.999995 \\
+                   Family affected by the conflict &  156.595053 & 0.999712 \\
+                                Conflict knowledge &  160.554314 & 0.999329 \\
+                        Conflict history knowledge &  133.895533 & 0.999979 \\
+                 Peace jurisdiction(JEP) knowledge &  164.503595 & 0.991132 \\
+         Peace jurisdiction(JEP) changes knowledge &  129.615495 & 1.000000 \\
+                                Homosexual Marrige &   94.731542 & 0.999873 \\
+                    Adoption by homosexual couples &  105.171928 & 0.998843 \\
+                           Euthanasia legalization &   90.563411 & 0.999848 \\
+                             Abortion legalization &  114.593834 & 0.999701 \\
+                            Marijuana legalization &  104.471560 & 1.000000 \\
+                             Flexible gender roles &   86.011873 & 0.999926 \\
+\bottomrule
+\end{tabular}

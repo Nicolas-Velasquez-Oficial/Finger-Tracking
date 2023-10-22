@@ -1,0 +1,27 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2160\clbrdrt\brdrs\cellx4320\clbrdrt\brdrs\cellx6768\clbrdrt\brdrs\cellx9216
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2160\cellx4320\cellx6768\cellx9216
+\ql \cell\qc csi_conviction\cell\qc zeta1_conviction\cell\qc zeta2_conviction\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2160\cellx4320\cellx6768\cellx9216
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2160\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx6768\clbrdrb\brdrs\cellx9216
+\ql VARIABLES\cell\qc csi_conviction\cell\qc zeta1_conviction\cell\qc zeta2_conviction\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2160\cellx4320\cellx6768\cellx9216
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql sideResp = 2\cell\qc -0.007\cell\qc 0.611***\cell\qc -0.660***\cell\row
+\ql \cell\qc (0.048)\cell\qc (0.049)\cell\qc (0.047)\cell\row
+\ql RT\cell\qc -0.000**\cell\qc -0.000\cell\qc 0.000\cell\row
+\ql \cell\qc (0.000)\cell\qc (0.000)\cell\qc (0.000)\cell\row
+\ql MT\cell\qc -0.000***\cell\qc -0.000**\cell\qc -0.000*\cell\row
+\ql \cell\qc (0.000)\cell\qc (0.000)\cell\qc (0.000)\cell\row
+\ql Constant\cell\qc 0.125***\cell\qc -0.260***\cell\qc 0.323***\cell\row
+\ql \cell\qc (0.040)\cell\qc (0.041)\cell\qc (0.039)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 2,313\cell\qc 2,313\cell\qc 2,313\cell\row
+\ql R-squared\cell\qc 0.034\cell\qc 0.081\cell\qc 0.094\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2160\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx6768\clbrdrb\brdrs\cellx9216
+\ql Number of id_2\cell\qc 264\cell\qc 264\cell\qc 264\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

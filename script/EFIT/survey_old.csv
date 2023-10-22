@@ -1,0 +1,271 @@
+﻿GS,id,semestre,edad,genero,Muni,Capital_Muni,Capital_Muni_Padres,Muni_Padres,resp1,resp2,resp3,resp4,resp5,resp6,resp7,resp8,resp9,resp10,resp11,resp12,resp13,resp15,facu,rolself
+G1S1,1,8,21,0,,,,,65,65,73,86,72,69,70,68,100,100,100,100,100,74,Ciencias Economicas y Administrativas,exguerrillero
+G1S2,2,9,21,0,,,,,1,2,4,3,24,37,36,79,100,100,100,100,19,100,Ciencias Economicas y Administrativas,exguerrillero
+G1S3,3,1,17,0,,,,,21,36,79,100,80,73,100,70,100,100,30,100,82,48,Ciencias Sociales,victima
+G1S4,4,1,16,1,,,,,1,1,11,38,74,36,100,100,100,100,100,100,59,100,Ciencias Sociales,exguerrillero
+G1S5,5,9,22,0,,,,,30,1,16,66,85,83,100,100,100,1,100,100,100,50,Ingenieria,exparamilitar
+G1S6,6,9,25,1,Bogota,1,1,Bogota,25,32,1,1,65,21,1,14,72,73,100,1,77,1,Ciencias,victima
+G1S7,7,7,20,1,Bogota,1,1,Bogota,1,1,1,1,61,62,59,1,100,100,100,100,100,50,Ingenieria,exparamilitar
+G1S8,8,1,17,0,Facatativa ,0,0,Facatativa,1,6,1,1,79,78,1,1,50,50,76,21,20,100,Ingenieria,exguerrillero
+G1S9,9,8,22,0,Bogota,1,1,Bogota,7,1,13,19,87,87,88,71,100,100,100,100,100,100,Arquitectura y Diseno,exparamilitar
+G1S10,10,1,19,0,Bogota,1,1,Bogota,1,56,1,100,50,77,1,1,33,65,75,100,100,1,Artes,victima
+G1S11,11,3,19,0,Bogota,1,1,Bogota,1,1,1,1,100,100,100,100,100,100,100,100,100,100,Ingenieria,exguerrillero
+G1S12,12,2,19,1,Bogota,1,1,Bogota,1,24,1,5,85,76,100,87,100,100,75,84,100,100,Ciencias Sociales,exparamilitar
+G1S13,13,5,20,0,Bogota,1,1,Bogota,1,1,1,1,49,61,60,58,100,100,100,75,100,80,Comunicacion y Lenguaje,exparamilitar
+G1S14,14,9,22,0,Bogota,1,1,Bogota,13,1,1,6,62,35,60,42,100,100,100,100,31,100,Psicologia,exparamilitar
+G1S15,15,2,19,1,Bogota,1,1,Bogota,1,5,17,77,74,95,91,63,100,84,100,100,67,100,Ciencias Sociales,victima
+G1S16,16,6,19,1,Bogota,1,1,Bogota,26,28,100,82,66,100,77,79,100,100,100,1,100,100,Comunicacion y Lenguaje,exparamilitar
+G1S17,17,9,22,0,Bogota,1,0,Duitama,13,1,42,77,79,68,100,100,21,35,69,1,100,100,Comunicacion y Lenguaje,victima
+G1S18,18,10,25,0,Bogota,1,1,Bogota,21,29,29,18,73,64,79,23,100,100,100,100,100,100,Ingenieria,exparamilitar
+G1S19,19,6,21,0,,,,,1,3,2,16,43,48,55,24,100,100,100,72,100,100,Ciencias Economicas y Administrativas,exparamilitar
+G1S20,20,1,18,1,,,,,1,1,1,41,38,50,63,16,100,100,100,100,47,100,Ciencias Sociales,exparamilitar
+G1S21,21,7,19,0,,,,,10,8,73,1,88,77,100,54,84,76,94,87,50,83,Ciencias Economicas y Administrativas,victima
+G1S22,22,6,20,1,,,,,60,61,64,79,100,88,100,83,100,100,100,100,100,100,Ciencias Juridicas,exparamilitar
+G1S23,23,5,18,1,,,,,1,1,1,31,50,31,73,32,94,90,93,100,71,100,Ciencias Economicas y Administrativas,exparamilitar
+G1S24,24,7,20,1,Bogota,1,1,Bogota,59,56,49,100,61,64,58,63,100,77,100,100,79,100,Ciencias Economicas y Administrativas,victima
+G1S25,25,9,25,1,Bogota,1,1,Bogota,77,81,66,100,73,75,85,85,100,100,100,74,50,100,Ciencias,victima
+G1S26,26,6,22,1,Bogota,1,1,Bogota,73,80,68,89,100,90,100,100,100,100,100,100,100,100,Ciencias,exguerrillero
+G1S27,27,3,20,1,Bogota,1,1,Bogota,10,65,74,62,74,90,90,91,100,100,100,100,100,100,Ciencias,exguerrillero
+G1S28,28,3,18,0,Bogota,1,1,Bogota,17,18,50,21,60,62,32,24,100,95,97,100,95,88,Ciencias,exguerrillero
+G1S29,29,2,17,1,Cajica,0,1,Bogota,1,23,1,49,51,65,80,59,100,100,86,38,57,100,Ciencias Sociales,victima
+G1S30,30,6,20,1,Bogota,1,1,Bogota,24,7,68,79,67,83,56,31,100,25,100,15,100,100,Ciencias Sociales,exguerrillero
+G1S31,31,3,18,1,Bogota,1,1,Bogota,23,1,2,100,50,44,22,1,85,100,100,50,50,1,Enfermeria,exguerrillero
+G1S32,32,3,20,1,Bogota,1,1,Bogota,1,1,1,87,58,63,64,36,100,100,100,100,80,100,Comunicacion y Lenguaje,victima
+G1S33,33,4,23,0,Bogota,1,1,Bogota,19,3,13,24,54,47,80,80,100,100,100,100,100,100,Comunicacion y Lenguaje,exguerrillero
+G1S34,34,1,17,0,Bogota,1,1,Bogota,1,1,1,1,36,36,33,24,100,100,86,100,95,100,Ingenieria,victima
+G1S35,35,nan,24,1,Bogota,1,1,Bogota,65,8,10,1,63,67,69,74,100,100,100,100,100,84,Ciencias,exparamilitar
+G1S36,36,9,22,0,Bogota,1,0,Sogamoso,11,10,11,15,61,62,93,100,1,8,65,78,1,50,Ciencias Economicas y Administrativas,exparamilitar
+G1S37,37,8,21,1,Bogota,1,1,Bogota,1,3,1,12,26,70,73,86,100,100,100,100,100,100,Arquitectura y Diseno,exparamilitar
+G1S38,38,4,20,1,Bogota,1,1,Bogota,1,14,74,13,91,78,80,15,20,71,6,1,1,100,Ciencias Juridicas,victima
+G1S39,39,2,20,0,Bogota,1,1,Bogota,1,59,64,1,91,89,86,100,5,73,100,48,50,100,Ciencias Juridicas,exparamilitar
+G1S40,40,2,19,1,Bogota,1,1,Bogota,100,65,49,71,100,100,83,84,100,100,100,100,100,100,Ciencias Sociales,victima
+G1S41,41,6,22,0,Bogota,1,1,Bogota,94,100,100,89,100,100,100,100,100,100,100,100,100,100,Ingenieria,exguerrillero
+G1S42,42,6,20,0,Bogota,1,1,Bogota,10,12,90,85,31,66,56,81,81,33,100,100,100,50,Ingenieria,exguerrillero
+G1S43,43,1,16,1,Duitama,0,0,Duitama,19,1,18,60,65,83,81,56,100,100,85,1,100,100,Arquitectura y Diseno,exparamilitar
+G1S44,44,3,20,0,Bogota,1,1,Bogota,61,1,22,77,67,64,63,65,52,29,79,1,100,93,Ciencias Economicas y Administrativas,exparamilitar
+G1S45,45,5,18,1,Bogota,1,0,Cucuta,16,62,17,65,79,88,85,63,100,100,89,100,100,100,Ingenieria,exparamilitar
+G1S46,46,8,22,0,Bogota,1,0,Monteria,64,65,66,86,81,34,79,60,100,100,100,100,100,100,Ciencias Juridicas,exparamilitar
+G1S47,47,5,21,0,Bogota,1,1,Bogota,1,1,1,1,70,83,1,24,25,50,79,100,100,77,Ingenieria,exparamilitar
+G1S48,48,6,23,0,Bogota,1,0,Cartagena,75,65,100,100,81,100,100,86,100,100,100,100,100,100,Ciencias Economicas y Administrativas,victima
+G1S49,49,5,21,0,Bogota,1,0,Monteria,46,1,50,50,18,16,1,1,100,1,85,74,65,76,Ingenieria,exguerrillero
+G1S50,50,2,19,1,Bogota,1,1,Bogota,11,61,36,73,65,67,44,13,100,71,100,100,29,100,Ciencias Politicas y Relaciones Internacionales,victima
+G1S51,51,1,19,1,Bogota,1,1,Bogota,20,55,78,96,73,75,71,71,100,100,100,100,100,100,Psicologia,exguerrillero
+G1S52,52,5,19,0,Soacha,0,0,Tena,1,1,11,1,32,21,38,62,94,91,91,96,95,86,Ciencias Economicas y Administrativas,exguerrillero
+G1S53,53,5,19,0,Bogota,1,1,Bogota,9,1,7,8,56,65,60,35,100,100,100,27,100,100,Ciencias Economicas y Administrativas,exguerrillero
+G1S54,54,1,18,1,Villavicencio,0,0,Villavicencio,1,1,1,63,49,44,81,50,100,100,100,100,100,44,Ciencias Politicas y Relaciones Internacionales,exparamilitar
+G1S55,55,2,18,1,Bogota,1,1,Bogota,1,13,100,1,73,75,77,42,100,100,100,100,100,100,Ingenieria,victima
+G1S56,56,3,19,0,Bogota,1,1,Bogota,23,1,25,70,83,88,84,84,75,77,88,44,35,100,Ingenieria,victima
+G1S57,57,5,19,0,Bogota,1,1,Bogota,1,1,1,1,73,78,78,72,50,16,100,75,92,80,Ciencias Economicas y Administrativas,exguerrillero
+G1S58,58,5,19,0,Bogota,1,1,Bogota,1,65,26,1,59,65,35,63,96,95,95,98,97,97,Ciencias Economicas y Administrativas,victima
+G1S59,59,5,19,0,Bogota,1,1,Bogota,71,66,71,80,50,50,50,50,92,90,77,78,88,100,Ciencias Economicas y Administrativas,victima
+G1S60,60,4,19,1,Bogota,1,1,Bogota,17,15,20,62,56,60,66,33,60,63,30,63,68,48,Enfermeria,exparamilitar
+G1S61,61,3,18,1,Ibague,0,0,Ibague,4,4,66,1,85,74,100,62,100,100,33,30,31,35,Comunicacion y Lenguaje,exguerrillero
+G1S62,62,4,20,0,Bogota,1,0,Calo,1,1,23,42,70,76,76,55,100,100,100,74,100,100,Comunicacion y Lenguaje,victima
+G1S63,63,1,17,1,Bogota,1,1,Bogota,2,1,1,1,50,56,1,73,100,100,49,1,37,100,Ingenieria,victima
+G1S64,64,5,21,0,Bogota,1,0,Chia,61,1,78,95,84,83,81,100,100,100,100,100,100,100,Ingenieria,victima
+G1S65,65,10,23,1,Bogota,1,1,Bogota,1,63,63,1,69,65,74,35,100,100,100,100,100,100,Psicologia,victima
+G1S66,66,2,18,1,Bogota,1,1,Bogota,12,14,15,16,100,100,100,100,100,100,100,100,100,100,Ciencias Juridicas,exguerrillero
+G1S67,67,12,24,0,Bogota,1,0,Chaparral,63,67,72,70,67,65,68,83,1,11,1,1,16,66,Ingenieria,exguerrillero
+G1S68,68,1,33,1,Mexico,0,0,Mexico,50,16,26,23,50,50,50,50,100,100,100,100,100,100,Psicologia,exparamilitar
+G1S69,69,4,18,0,Bogota,1,1,Bogota,30,16,87,5,67,73,83,40,100,100,10,16,100,100,Ingenieria,victima
+G1S70,70,2,18,1,Bogota,1,1,Bogota,22,13,1,3,84,76,86,62,100,81,100,1,1,100,Ciencias Economicas y Administrativas,exparamilitar
+G1S71,71,2,18,0,Bogota,1,1,Bogota,13,14,11,14,82,71,91,87,67,69,61,55,92,81,Ciencias Economicas y Administrativas,exguerrillero
+G1S72,72,6,20,0,Bogota,1,1,Bogota,1,1,1,1,75,71,84,80,100,100,100,100,100,1,Ciencias Politicas y Relaciones Internacionales,victima
+G1S73,73,6,19,1,Bogota,1,1,Bogota,7,1,6,1,50,58,67,28,100,100,100,100,65,100,Psicologia,victima
+G1S74,74,4,19,1,Bogota,1,1,Bogota,12,8,18,50,39,31,4,1,100,100,77,78,89,32,Ciencias,exparamilitar
+G1S75,75,4,19,0,Bogota,1,0,Cucuta,12,1,1,78,61,64,74,50,100,100,74,76,100,100,Ciencias,exparamilitar
+G1S76,76,7,23,0,Bogota,1,1,Bogota,18,71,70,37,77,100,100,82,77,75,76,78,100,100,Comunicacion y Lenguaje,victima
+G1S77,77,7,21,1,Bogota,1,0,Sogamoso,1,6,6,50,50,32,74,64,24,21,62,1,100,50,Ciencias Economicas y Administrativas,exguerrillero
+G1S78,78,3,19,0,Bogota,1,1,Bogota,1,1,6,5,39,61,39,54,1,1,65,69,65,4,Arquitectura y Diseno,exguerrillero
+G1S79,79,8,22,1,Bogota,1,1,Bogota,11,10,14,16,31,45,41,31,100,100,70,100,50,88,Psicologia,victima
+G1S80,80,,,,,,,,,,,,,,,,,,,,,,,exparamilitar
+G1S81,81,4,22,0,Bogota,1,1,Bogota,1,1,1,76,73,74,11,17,100,100,100,69,100,100,Arquitectura y Diseno,exguerrillero
+G1S82,82,7,22,0,Bogota,1,1,Bogota,27,31,57,65,60,60,80,68,100,100,100,100,100,100,Ciencias Economicas y Administrativas,exguerrillero
+G1S83,83,10,22,0,Bogota,1,1,Bogota,100,100,100,78,81,93,100,100,100,100,100,73,100,52,Arquitectura y Diseno,exparamilitar
+G1S84,84,7,19,0,Bogota,1,1,Bogota,12,2,12,60,95,94,100,100,100,100,100,100,100,95,Ingenieria,exguerrillero
+G1S85,85,2,18,0,Bogota,1,1,Bogota,65,78,78,79,65,70,59,68,100,100,100,100,100,100,Arquitectura y Diseno,victima
+G1S86,86,,,,,,,,,,,,,,,,,,,,,,,victima
+G1S87,87,7,20,0,Bogota,1,1,Bogota,1,1,1,81,66,30,35,33,100,100,100,100,100,100,Medicina/Nutricion,victima
+G1S88,88,3,19,1,,,,,1,11,10,4,26,40,39,23,100,100,63,100,12,100,Medicina/Nutricion,exguerrillero
+G1S89,89,2,18,0,Bogota,1,0,Coromoro,11,1,45,62,54,51,77,1,100,100,100,100,77,100,Medicina/Nutricion,exguerrillero
+G1S90,90,6,19,1,Bogota,1,1,Bogota,1,1,13,33,65,67,70,31,93,63,74,80,20,1,Ciencias Economicas y Administrativas,victima
+G1S91,91,7,20,0,Bogota,1,0,Villavicencio,24,1,24,80,84,82,70,85,100,100,100,100,100,100,Ciencias Sociales,exguerrillero
+G1S92,92,10,24,1,Bogota,1,1,Bogota,1,1,1,20,95,98,95,100,100,100,100,100,100,100,Ciencias Economicas y Administrativas,exguerrillero
+G1S93,93,7,20,1,Bogota,1,1,Bogota,17,71,83,1,72,73,74,75,78,10,1,1,79,95,Ciencias Economicas y Administrativas,exparamilitar
+G1S94,94,9,23,0,Bogota,1,1,Bogota,40,1,100,100,73,79,14,47,97,84,64,20,100,74,Ciencias Economicas y Administrativas,victima
+G1S95,95,12,22,1,Bogota,1,1,Bogota,13,1,1,13,59,72,77,36,52,34,89,69,71,91,Ciencias Economicas y Administrativas,exguerrillero
+G1S96,96,8,21,0,Bogota,1,1,Bogota,1,1,1,35,41,36,44,61,76,78,50,50,50,79,Ingenieria,exparamilitar
+G1S97,97,5,18,0,Cucuta,0,0,Cucuta,15,58,6,25,82,79,78,88,100,100,100,70,68,100,Ciencias Sociales,exparamilitar
+G1S98,98,9,22,1,Bogota,1,1,Bogota,1,1,74,1,22,63,75,76,100,100,100,100,100,78,Ciencias,exparamilitar
+G1S99,99,4,21,0,Bucaramanga,0,0,Floridablanca,10,19,68,59,77,64,27,67,1,1,75,1,1,1,Ingenieria,victima
+G1S100,100,10,22,1,Bogota,1,1,Bogota,58,18,90,100,77,79,96,82,100,100,100,100,100,100,Comunicacion y Lenguaje,exparamilitar
+G1S101,101,1,17,1,Facatativa ,0,0,Facatativa,80,66,69,70,78,78,79,71,83,100,25,1,76,1,Ingenieria,victima
+G1S102,102,3,19,1,Bogota,1,1,Bogota,6,5,16,59,67,77,77,83,89,85,88,91,92,49,Ciencias Economicas y Administrativas,victima
+G1S103,103,5,23,1,Facatativa ,0,0,Facatativa,1,1,1,70,66,36,65,70,100,100,100,100,4,97,Enfermeria,victima
+G1S104,104,3,20,1,Bogota,1,1,Bogota,10,11,12,1,71,88,78,77,100,100,100,100,100,100,Artes,exparamilitar
+G1S105,105,5,19,1,Bogota,1,1,Bogota,35,61,62,82,73,75,94,66,100,100,70,1,1,100,Ciencias Juridicas,exguerrillero
+G1S106,106,7,22,1,Bogota,1,1,Bogota,36,21,21,41,61,72,34,43,100,86,43,75,100,65,Ciencias,victima
+G1S107,107,2,20,1,Bogota,1,1,Bogota,1,1,75,100,50,86,74,42,100,100,100,100,15,50,Ciencias Economicas y Administrativas,exguerrillero
+G1S108,108,2,20,1,Bogota,1,0,Cali,1,1,51,50,18,68,76,17,91,14,50,50,1,100,Ciencias Economicas y Administrativas,exparamilitar
+G1S109,109,1,21,0,Bogota,1,1,Bogota,1,1,1,1,50,50,100,70,1,1,1,1,1,100,Ciencias Economicas y Administrativas,exparamilitar
+G1S110,110,9,24,0,Bogota,1,1,Bogota,1,1,1,1,69,72,90,82,100,68,100,100,100,50,Ingenieria,victima
+G1S111,111,7,21,0,Bogota,1,0,Ibague,1,1,1,56,74,71,100,82,100,100,100,81,100,100,Ciencias Economicas y Administrativas,exparamilitar
+G1S112,112,6,22,1,Bogota,1,1,Bogota,1,1,67,93,44,23,50,17,100,100,100,100,100,100,Arquitectura y Diseno,victima
+G1S113,113,7,20,0,Bogota,1,1,Bogota,1,2,3,11,48,63,61,25,100,100,50,50,50,100,Ingenieria,exguerrillero
+G1S114,114,1,18,1,Bogota,1,1,Bogota,1,1,70,68,62,66,69,27,62,62,100,39,1,72,Ciencias Economicas y Administrativas,exparamilitar
+G1S115,115,1,16,1,Bogota,1,1,Bogota,63,50,64,75,80,58,80,67,15,9,50,50,23,33,Ciencias Economicas y Administrativas,exguerrillero
+G1S116,116,7,19,1,Bogota,1,1,Bogota,12,28,32,25,67,67,22,60,1,1,24,15,2,95,Ciencias Economicas y Administrativas,exparamilitar
+G1S117,117,1,38,0,Bogota,1,0,Miami,13,1,15,69,31,50,99,23,29,50,79,81,81,100,Educacion,exguerrillero
+G1S118,118,4,19,1,Bogota,1,1,Bogota,1,50,37,31,65,62,69,70,100,100,93,94,29,100,Ciencias Juridicas,victima
+G1S119,119,4,19,1,Bogota,1,1,Bogota,9,5,40,81,50,64,100,100,100,100,100,57,31,100,Ingenieria,exparamilitar
+G1S120,120,4,19,1,Bogota,1,0,Pasto,33,1,86,100,68,65,100,93,100,1,100,100,100,100,Ingenieria,victima
+G1S121,121,9,21,0,Bogota,1,1,Bogota,1,1,1,1,69,57,100,100,50,100,100,100,90,50,Comunicacion y Lenguaje,exguerrillero
+G1S122,122,5,20,0,Bogota,1,1,Bogota,1,1,1,1,65,89,88,78,52,1,100,100,7,100,Comunicacion y Lenguaje,exguerrillero
+G1S123,123,8,23,0,Bogota,1,1,Bogota,9,6,8,6,70,72,68,79,100,100,100,100,69,100,Arquitectura y Diseno,exguerrillero
+G1S124,124,11,24,1,Bogota,1,1,Bogota,1,1,1,1,63,77,1,25,100,100,100,100,8,100,Arquitectura y Diseno,exguerrillero
+G1S125,125,5,20,1,Bogota,1,1,Bogota,7,15,1,1,62,100,100,85,100,100,100,100,21,79,Enfermeria,exparamilitar
+G1S126,126,1,18,1,Bogota,1,0,Guayaquil,43,29,19,19,5,1,1,1,81,36,53,1,57,85,Medicina/Nutricion,exparamilitar
+G1S127,127,3,18,1,Bogota,1,1,Bogota,50,67,71,38,50,42,69,69,100,100,75,92,100,76,Psicologia,victima
+G1S128,128,7,20,1,Bogota,1,1,Bogota,1,1,1,1,50,50,79,78,100,100,100,100,100,100,Ciencias Economicas y Administrativas,exguerrillero
+G1S129,129,7,20,0,Bogota,1,1,Bogota,31,63,50,63,63,35,65,67,100,100,100,81,100,100,Ciencias Economicas y Administrativas,exparamilitar
+G1S130,130,5,19,1,Bogota,1,0,Cucuta,63,69,77,82,92,85,78,80,100,100,100,100,100,100,Ciencias Economicas y Administrativas,exguerrillero
+G1S131,131,10,23,0,Bogota,1,1,Bogota,17,18,27,81,71,83,58,58,100,100,100,100,79,100,Ingenieria,victima
+G1S132,132,10,23,0,Bogota,1,1,Bogota,63,28,73,44,66,67,66,59,100,100,50,50,1,50,Ingenieria,victima
+G1S133,133,7,20,1,Bogota,1,1,Bogota,1,1,1,8,26,1,60,64,100,100,100,82,14,19,Ciencias,exparamilitar
+G1S134,134,7,21,1,Bogota,1,1,Bogota,1,1,1,1,50,50,19,19,100,100,100,100,29,100,Ciencias,exparamilitar
+G1S135,135,6,20,0,Bogota,1,1,Bogota,24,1,33,62,50,63,21,13,100,100,65,100,61,100,Ciencias Economicas y Administrativas,exguerrillero
+G2S1,136,8,22,0,,,,,52,1,24,55,68,67,78,57,100,100,100,75,100,100,Ciencias,victima
+G2S2,137,7,22,0,Bogota,1,1,Bogota,4,5,7,3,76,65,73,77,100,100,75,71,99,100,Arquitectura y Diseno,exparamilitar
+G2S3,138,,,,,,,,,,,,,,,,,,,,,,,victima
+G2S4,139,7,22,0,,,,,1,1,78,78,82,73,91,91,100,100,100,100,100,100,Ciencias Politicas y Relaciones Internacionales,exparamilitar
+G2S5,140,6,20,1,,,,,1,1,1,1,84,96,100,100,100,100,100,51,100,1,Psicologia,exguerrillero
+G2S6,141,9,25,1,,,,,25,32,1,1,65,21,1,14,72,73,100,1,77,1,Medicina/Nutricion,victima
+G2S7,142,5,19,1,Bogota,1,1,Bogota,1,1,29,14,64,69,69,43,55,38,78,73,73,1,Ingenieria,exparamilitar
+G2S8,143,8,21,1,Bogota,1,1,Bogota,1,1,100,1,100,100,100,100,100,100,100,100,77,100,Ciencias,exguerrillero
+G2S9,144,7,21,1,Bogota,1,1,Bogota,10,10,28,10,83,86,74,91,100,100,100,100,100,100,Ciencias Juridicas,exparamilitar
+G2S10,145,1,17,1,Bogota,1,1,Bogota,1,4,14,1,28,22,33,52,71,69,57,58,58,22,Ciencias Politicas y Relaciones Internacionales,exguerrillero
+G2S11,146,4,19,1,Bogota,1,1,Bogota,3,1,17,12,58,58,27,40,88,83,79,85,79,1,Arquitectura y Diseno,exguerrillero
+G2S12,147,4,20,1,Bogota,1,1,Bogota,69,69,72,87,50,66,24,68,81,100,24,100,87,100,Arquitectura y Diseno,victima
+G2S13,148,6,22,0,Bogota,1,1,Bogota,72,34,81,93,84,79,96,93,22,37,1,32,50,100,Ciencias Juridicas,exguerrillero
+G2S14,149,3,18,1,Bogota,1,0,Cucuta,75,67,24,100,65,33,84,100,9,1,67,1,1,50,Comunicacion y Lenguaje,exguerrillero
+G2S15,150,8,22,1,Bogota,1,1,Bogota,26,14,9,64,75,97,95,91,100,93,58,100,58,100,Ciencias Politicas y Relaciones Internacionales,victima
+G2S16,151,5,21,0,Bogota,1,1,Bogota,1,1,1,20,62,57,23,1,100,100,100,100,91,100,Arquitectura y Diseno,exparamilitar
+G2S17,152,14,24,0,Lille,0,0,Boulogne sur Mer,5,5,1,6,33,41,1,65,59,18,64,20,19,100,Ingenieria,exparamilitar
+G2S18,153,6,23,1,Bogota,1,1,Bogota,5,2,9,7,59,69,83,72,100,100,100,100,100,100,Ciencias,victima
+G2S19,154,3,18,1,Bogota,1,1,Bogota,1,12,68,1,59,56,57,35,100,77,50,51,61,50,Medicina/Nutricion,exparamilitar
+G2S20,155,8,21,0,Bogota,1,1,Bogota,1,1,19,33,39,39,52,37,49,38,66,71,83,100,Ingenieria,exguerrillero
+G2S21,156,5,19,0,,,,,44,1,54,100,67,64,28,15,100,100,100,100,57,100,Comunicacion y Lenguaje,exguerrillero
+G2S22,157,8,25,0,,,,,100,100,100,100,88,100,100,100,100,100,100,30,95,1,Ciencias Economicas y Administrativas,victima
+G2S23,158,,,,,,,,,,,,,,,,,,,,,,,exguerrillero
+G2S24,159,6,21,1,Bogota,1,1,Bogota,63,67,66,72,90,94,95,93,100,100,100,100,100,88,Ciencias Sociales,victima
+G2S25,160,1,17,1,Bogota,1,1,Bogota,1,1,14,15,41,42,38,53,100,100,50,100,52,50,Comunicacion y Lenguaje,exguerrillero
+G2S26,161,2,19,1,Bogota,1,1,Bogota,72,56,17,58,66,63,94,88,100,100,50,96,88,1,Artes,exguerrillero
+G2S27,162,1,17,1,Bogota,1,1,Bogota,1,1,1,1,32,26,1,12,100,100,100,50,19,61,Ciencias Economicas y Administrativas,victima
+G2S28,163,2,18,1,Bogota,1,0,Quibdo,1,6,65,50,62,41,64,37,67,67,29,15,35,59,Ingenieria,exparamilitar
+G2S29,164,4,19,1,Bogota,1,1,Bogota,1,1,1,50,50,50,1,1,100,100,100,100,1,50,Ciencias,victima
+G2S30,165,5,19,1,Bogota,1,0,Monteria,1,11,81,1,100,74,100,1,100,14,100,100,100,90,Ciencias,exparamilitar
+G2S31,166,,,,,,,,,,,,,,,,,,,,,,,exparamilitar
+G2S32,167,6,22,1,Bogota,1,1,Bogota,4,2,23,5,40,76,22,21,50,50,100,50,50,1,Odontologia,victima
+G2S33,168,,,,,,,,,,,,,,,,,,,,,,,exparamilitar
+G2S34,169,4,20,0,Bogota,1,1,Bogota,1,1,1,49,35,60,31,40,81,81,70,27,77,100,Ciencias Economicas y Administrativas,exparamilitar
+G2S35,170,9,21,0,Bogota,1,1,Bogota,1,1,1,75,32,30,67,3,100,100,100,67,100,8,Ingenieria,exguerrillero
+G2S36,171,5,22,0,Bogota,1,1,Bogota,69,7,91,100,29,50,24,3,87,11,100,50,50,100,Ciencias Economicas y Administrativas,exparamilitar
+G2S37,172,7,20,0,Bogota,1,1,Bogota,19,1,23,72,23,22,36,29,100,100,100,100,100,100,Ciencias Economicas y Administrativas,victima
+G2S38,173,5,19,1,Bogota,1,1,Bogota,1,1,61,1,73,75,81,40,72,75,74,100,100,100,Ingenieria,exparamilitar
+G2S39,174,7,20,0,Bogota,1,1,Bogota,62,70,85,100,39,44,44,16,100,100,100,100,73,1,Medicina/Nutricion,exguerrillero
+G2S40,175,,,,,,,,,,,,,,,,,,,,,,,victima
+G2S41,176,3,23,1,Bogota,1,1,Bogota,36,66,60,30,64,64,70,54,68,60,79,88,100,100,Educacion,victima
+G2S42,177,10,21,1,Bogota,1,1,Bogota,67,64,64,82,68,70,83,68,100,100,74,73,77,78,Ingenieria,exguerrillero
+G2S43,178,7,20,0,Bogota,1,0,Ibague,1,1,1,1,73,72,62,78,100,100,100,100,100,100,Ciencias Economicas y Administrativas,exparamilitar
+G2S44,179,7,20,0,Bogota,1,1,Bogota,68,34,67,2,35,36,66,31,100,68,100,82,67,100,Medicina/Nutricion,victima
+G2S45,180,3,18,1,Bogota,1,0,Barrancabermeja,63,60,63,94,71,74,66,68,100,100,77,76,19,100,Medicina/Nutricion,exparamilitar
+G2S46,181,10,23,1,Bogota,1,1,Bogota,1,63,43,100,50,28,1,1,100,100,100,100,50,100,Medicina/Nutricion,victima
+G2S47,182,10,22,1,Bogota,1,0,Tunja,64,76,78,100,86,85,100,100,100,100,100,100,100,100,Ciencias Sociales,victima
+G2S48,183,3,21,1,Bogota,1,1,Bogota,1,1,19,1,82,82,82,84,50,50,77,1,1,26,Ciencias Politicas y Relaciones Internacionales,exguerrillero
+G2S49,184,5,20,1,Bogota,1,0,Medellin,100,26,100,79,79,76,93,100,100,100,99,100,97,100,Ciencias Sociales,exguerrillero
+G2S50,185,2,20,0,Bogota,1,1,Bogota,1,1,1,1,67,79,77,79,100,54,73,49,1,1,Ciencias Economicas y Administrativas,victima
+G2S51,186,4,20,1,Bogota,1,1,Bogota,28,1,50,64,64,65,72,65,100,100,100,71,86,50,Ciencias Politicas y Relaciones Internacionales,exguerrillero
+G2S52,187,5,20,1,Bogota,1,1,Bogota,54,34,56,20,86,84,100,72,100,99,100,100,78,100,Comunicacion y Lenguaje,victima
+G2S53,188,5,19,0,Bogota,1,1,Bogota,58,56,55,76,77,75,88,94,100,93,92,75,84,16,Comunicacion y Lenguaje,victima
+G2S54,189,5,20,0,Bogota,1,0,Cartagena,1,1,50,1,79,31,50,90,100,100,1,50,89,50,Comunicacion y Lenguaje,exguerrillero
+G2S55,190,1,18,1,Bogota,1,1,Bogota,11,12,4,23,20,22,39,25,89,85,81,100,100,100,Artes,exguerrillero
+G2S56,191,3,24,0,Bogota,1,0,Caracas,1,1,10,18,76,76,76,86,100,100,100,22,100,85,Ingenieria,exparamilitar
+G2S57,192,8,22,1,Bogota,1,1,Bogota,78,76,100,89,86,86,72,64,100,100,100,74,100,100,Ciencias Politicas y Relaciones Internacionales,exguerrillero
+G2S58,193,,,,,,,,,,,,,,,,,,,,,,,exparamilitar
+G2S59,194,10,16,0,Tenjo,0,0,Tenjo,63,48,8,50,44,66,75,56,100,100,100,100,100,100,Ciencias Sociales,victima
+G2S60,195,1,19,0,Bogota,1,1,Bogota,82,1,14,84,43,44,71,50,100,100,100,100,67,100,Ciencias Economicas y Administrativas,exparamilitar
+G2S61,196,6,20,1,Bogota,1,1,Bogota,62,1,72,100,30,24,21,11,50,100,100,100,63,17,Odontologia,victima
+G2S62,197,3,18,0,San marcos,0,0,San Marcos,1,75,100,20,78,78,79,79,100,100,100,100,100,100,Ingenieria,victima
+G2S63,198,4,19,0,Bogota,1,1,Bogota,1,1,74,79,96,69,82,100,1,1,100,73,1,49,Ciencias Economicas y Administrativas,exparamilitar
+G2S64,199,4,21,0,Bogota,1,1,Bogota,66,1,62,86,70,70,84,67,100,100,73,81,100,100,Arquitectura y Diseno,victima
+G2S65,200,8,20,1,Bogota,1,1,Bogota,1,20,4,2,32,35,27,50,49,7,86,85,28,85,Ingenieria,exparamilitar
+G2S66,201,5,19,1,Bogota,1,1,Bogota,1,35,1,68,65,73,62,38,63,61,61,24,44,54,Comunicacion y Lenguaje,exparamilitar
+G2S67,202,5,19,0,Bogota,1,1,Bogota,3,3,1,1,75,71,87,69,100,84,100,100,100,100,Ciencias Economicas y Administrativas,exguerrillero
+G2S68,203,8,21,0,Bogota,1,1,Bogota,1,1,1,1,82,70,74,62,99,94,92,70,90,86,Arquitectura y Diseno,exparamilitar
+G2S69,204,9,21,0,Bogota,1,1,Bogota,1,1,1,1,73,72,29,78,50,50,100,100,81,50,Ingenieria,exparamilitar
+G2S70,205,3,20,1,Bogota,1,1,Bogota,1,1,1,1,71,70,62,55,30,50,66,35,26,50,Ciencias Economicas y Administrativas,exparamilitar
+G2S71,206,3,19,1,Bogota,1,1,Bogota,35,7,54,79,38,60,80,33,85,50,91,76,50,50,Ciencias Economicas y Administrativas,exguerrillero
+G2S72,207,6,21,1,Bogota,1,1,Bogota,1,6,18,32,74,100,100,100,100,100,100,100,100,100,Comunicacion y Lenguaje,exguerrillero
+G2S73,208,3,19,0,Bogota,1,1,Bogota,15,13,20,12,67,78,7,63,100,100,74,82,100,1,Ciencias,exguerrillero
+G2S74,209,2,18,0,Bogota,1,1,Bogota,63,3,60,80,77,89,73,27,100,100,78,100,100,51,Ciencias Sociales,exguerrillero
+G2S75,210,2,20,1,Bogota,1,1,Bogota,12,4,5,6,39,37,76,42,100,100,100,100,100,100,Ciencias Sociales,exparamilitar
+G2S76,211,9,22,0,Bogota,1,1,Bogota,1,12,11,19,76,72,95,90,100,100,100,20,83,100,Ciencias Economicas y Administrativas,victima
+G2S77,212,7,22,1,Bogota,1,0,Neiva,1,1,1,1,16,1,1,1,100,100,100,70,29,100,Ingenieria,victima
+G2S78,213,3,18,0,Bogota,1,1,Bogota,21,1,13,47,79,76,78,60,100,100,100,100,100,50,Ingenieria,exguerrillero
+G2S79,214,10,23,1,Bogota,1,1,Bogota,1,5,87,60,85,85,100,100,100,100,100,100,100,100,Artes,victima
+G2S80,215,4,20,0,Bogota,1,1,Bogota,10,19,12,100,17,69,1,75,100,74,75,75,98,100,Arquitectura y Diseno,victima
+G2S81,216,4,20,1,Bogota,1,1,Bogota,63,10,100,100,36,78,77,11,100,100,100,100,100,82,Arquitectura y Diseno,exparamilitar
+G2S82,217,7,20,0,Soacha,0,0,Soacha,24,20,18,32,76,78,77,77,75,78,80,84,100,100,Ingenieria,exguerrillero
+G2S83,218,9,21,1,Bogota,1,0,Choacha,1,1,1,50,19,38,28,23,100,73,100,89,78,100,Ingenieria,exparamilitar
+G2S84,219,9,21,1,Bogota,1,1,Bogota,59,1,64,66,57,60,69,66,100,100,100,100,100,100,Comunicacion y Lenguaje,exparamilitar
+G2S85,220,5,20,1,Bogota,1,1,Bogota,1,1,15,16,82,100,94,100,100,100,50,77,78,100,Ciencias Sociales,exguerrillero
+G2S86,221,3,18,1,Bogota,1,1,Bogota,1,1,30,30,28,50,27,50,42,7,50,19,7,50,Ciencias Economicas y Administrativas,exguerrillero
+G2S87,222,4,19,0,Bogota,1,0,Sogamoso,57,53,53,68,74,77,76,80,100,100,100,87,78,100,Filosofia,victima
+G2S88,223,8,20,1,Bogota,1,1,Bogota,15,1,16,50,22,22,74,74,100,100,75,76,76,78,Ingenieria,exparamilitar
+G2S89,224,3,18,0,Bogota,1,1,Bogota,77,22,73,72,81,84,81,71,100,100,100,33,1,85,Medicina/Nutricion,exguerrillero
+G2S90,225,5,19,1,Bogota,1,1,Bogota,1,1,9,1,100,100,100,100,100,76,100,74,100,100,Medicina/Nutricion,exparamilitar
+G2S91,226,6,21,1,Bogota,1,0,Cartagena,1,1,1,9,74,88,67,83,100,75,80,100,91,100,Comunicacion y Lenguaje,victima
+G2S92,227,4,18,1,Bogota,1,1,Bogota,1,24,1,1,1,1,40,31,32,30,1,1,24,1,Psicologia,exguerrillero
+G2S93,228,5,19,0,Bogota,1,0,Cali,50,1,50,50,21,23,22,29,100,50,100,53,100,50,Ciencias Economicas y Administrativas,exguerrillero
+G2S94,229,8,21,1,Bogota,1,1,Bogota,3,1,16,26,30,15,50,28,100,65,72,100,100,100,Ingenieria,exparamilitar
+G2S95,230,4,19,0,Bogota,1,1,Bogota,15,14,24,68,33,50,23,26,100,100,100,100,68,100,Arquitectura y Diseno,exparamilitar
+G2S96,231,8,22,0,Bogota,1,1,Bogota,1,1,1,1,64,16,22,1,100,100,100,100,100,100,Ingenieria,exparamilitar
+G2S97,232,5,20,1,Bogota,1,0,Miraflores,30,32,28,16,85,61,50,64,65,50,85,74,74,82,Ciencias Economicas y Administrativas,exguerrillero
+G2S98,233,7,20,0,Bogota,1,1,Bogota,70,70,68,92,71,72,94,68,100,57,100,81,1,100,Ciencias Politicas y Relaciones Internacionales,exguerrillero
+G2S99,234,7,20,1,Bogota,1,1,Bogota,4,18,17,68,76,87,82,97,100,100,100,81,100,100,Comunicacion y Lenguaje,exparamilitar
+G2S100,235,7,20,1,Bogota,1,0,Barranquilla,20,4,39,15,87,92,94,72,100,100,100,100,100,100,Comunicacion y Lenguaje,exparamilitar
+G2S101,236,8,35,0,Bogota,1,1,Bogota,74,72,80,100,13,83,7,13,93,1,100,100,99,1,Ciencias Economicas y Administrativas,exguerrillero
+G2S102,237,1,18,0,Bogota,1,1,Bogota,1,1,1,1,32,30,25,35,100,75,50,45,68,100,Artes,victima
+G2S103,238,2,19,0,Bogota,1,1,Bogota,4,8,46,1,58,73,79,50,50,26,81,82,31,50,Ciencias Economicas y Administrativas,victima
+G2S104,239,2,19,0,Bogota,1,1,Bogota,1,23,37,22,88,92,86,94,1,1,86,76,29,83,Ciencias Economicas y Administrativas,exparamilitar
+G2S105,240,8,22,0,Bogota,1,0,Manizales,1,27,1,37,74,76,81,19,100,100,100,75,100,100,Ingenieria,exguerrillero
+G2S106,241,5,21,0,Bogota,1,0,Bucaramanga,14,17,22,5,34,38,32,7,100,100,100,100,100,1,Ciencias Economicas y Administrativas,exguerrillero
+G2S107,242,8,21,1,Bogota,1,1,Bogota,8,1,7,1,65,65,68,74,81,81,65,50,50,49,Ingenieria,exguerrillero
+G2S108,243,8,22,1,Bogota,1,0,Monteria,12,1,15,32,35,30,50,50,100,50,100,100,50,33,Ingenieria,victima
+G2S109,244,6,20,1,Bogota,1,1,Bogota,18,29,18,1,63,75,79,90,100,100,100,100,100,100,Ciencias Economicas y Administrativas,victima
+G2S110,245,6,20,1,Facatativa ,0,0,Facatativa,1,1,1,64,67,37,100,50,100,100,1,1,14,100,Ciencias Economicas y Administrativas,exguerrillero
+G2S111,246,1,17,1,Bogota,1,1,Bogota,56,59,62,68,65,74,69,64,100,100,100,83,65,97,Ciencias Politicas y Relaciones Internacionales,exguerrillero
+G2S112,247,7,20,1,Bogota,1,1,Bogota,10,8,10,12,63,62,64,79,69,69,91,50,50,100,Ciencias Economicas y Administrativas,exguerrillero
+G2S113,248,7,20,0,Bogota,1,0,Ibague,28,66,76,96,59,74,81,77,67,65,70,66,31,76,Ciencias Economicas y Administrativas,exparamilitar
+G2S114,249,3,18,1,Bogota,1,1,Bogota,5,1,9,1,84,71,73,9,100,100,100,100,100,100,Comunicacion y Lenguaje,exguerrillero
+G2S115,250,3,20,1,Bogota,1,1,Bogota,11,11,13,12,50,75,27,25,100,100,64,100,100,46,Comunicacion y Lenguaje,exguerrillero
+G2S116,251,3,17,0,Bogota,1,1,Bogota,30,31,73,12,75,71,69,67,91,90,78,77,81,76,Ingenieria,victima
+G2S117,252,3,19,0,Bogota,1,0,Neiva,7,1,19,50,70,74,79,78,83,50,100,100,100,82,Ingenieria,victima
+G2S118,253,6,19,0,Bogota,1,1,Bogota,1,1,20,11,62,72,76,39,100,100,88,76,76,100,Ciencias Economicas y Administrativas,exparamilitar
+G2S119,254,4,20,1,Bogota,1,1,Bogota,1,1,50,22,50,77,65,36,22,23,21,10,9,50,Ciencias Economicas y Administrativas,exparamilitar
+G2S120,255,2,19,1,Bogota,1,1,Bogota,1,1,1,9,35,71,82,79,100,100,86,91,10,95,Ciencias Economicas y Administrativas,exparamilitar
+G2S121,256,5,21,0,Bogota,1,1,Bogota,1,1,100,1,16,15,13,13,100,100,100,100,1,100,Ciencias Economicas y Administrativas,victima
+G2S122,257,6,20,0,Bogota,1,1,Bogota,1,1,1,1,1,1,1,1,1,1,1,1,100,1,Ciencias Economicas y Administrativas,exparamilitar
+G2S123,258,2,21,0,Bogota,1,1,Bogota,1,1,27,20,80,79,76,80,75,77,79,80,83,91,Ciencias Economicas y Administrativas,exparamilitar
+G2S124,259,8,21,1,Bogota,1,1,Bogota,8,1,13,1,63,54,84,72,100,100,100,100,100,100,Comunicacion y Lenguaje,victima
+G2S125,260,1,19,0,Bogota,1,1,Bogota,1,26,1,1,77,65,21,6,100,100,100,100,100,95,Psicologia,victima
+G2S126,261,4,30,1,Bogota,1,1,Bogota,1,1,14,12,11,44,50,1,50,100,70,66,50,55,Psicologia,exparamilitar
+G2S127,262,8,22,1,Bogota,1,0,Magdalena,74,70,75,100,74,94,66,16,50,75,100,100,100,1,Psicologia,exguerrillero
+G2S128,263,8,21,1,Bogota,1,1,Bogota,14,5,20,39,41,21,33,27,37,1,23,31,1,62,Psicologia,victima
+G2S129,264,2,19,1,Bogota,1,1,Bogota,50,78,82,70,92,90,78,50,100,100,100,100,100,100,Ciencias Sociales,victima
+G2S130,265,2,19,1,Bogota,1,1,Bogota,49,50,79,50,64,71,77,50,100,100,100,100,62,50,Ciencias Sociales,victima
+G2S131,266,1,19,1,Santa Marta,0,0,Santa Marta,73,12,100,100,67,69,40,1,100,100,100,100,100,1,Comunicacion y Lenguaje,exparamilitar
+G2S132,267,1,18,1,Bogota,1,1,Bogota,27,25,1,1,23,24,24,50,77,77,77,17,51,77,Comunicacion y Lenguaje,exguerrillero
+G2S133,268,3,18,1,Bogota,1,0,Duitama,1,1,7,7,88,85,78,86,74,74,14,3,18,20,Ciencias Economicas y Administrativas,victima
+G2S134,269,3,18,1,Bogota,1,1,Bogota,91,16,77,100,67,71,63,36,86,85,23,22,75,67,Ciencias Economicas y Administrativas,victima
+G2S135,270,6,21,1,Bogota,1,1,Bogota,50,8,20,5,53,69,100,87,89,85,100,100,5,100,Ciencias Juridicas,victima

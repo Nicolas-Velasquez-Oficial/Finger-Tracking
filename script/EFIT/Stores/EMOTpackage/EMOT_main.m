@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % EMOT Package v.1.0 (2016/04/25)                                                    
 % by Antonio Calcagnì
 % Dep. of Psychology and Cognitive Science, University of Trento (Italy)
@@ -32,12 +32,9 @@ switch analysis{1}
         for i=g(1):g(2), fprintf('\n');disp(['@ Group analysis: Data id. ' num2str(i)]);
             res{i} = EMOT(X(i,1:NUM_MVS(i)),Y(i,1:NUM_MVS(i)),options); 
             tosave(i,:) = [i res{i}.psi res{i}.csi res{i}.zeta1 res{i}.zeta2]; end
-        csvwrite([fileName '_' date '_' datestr(clock,13) '.csv'],tosave)
-        save([fileName '_' date '_' datestr(clock,13) '.mat'],'res')
+        csvwrite([fileName '_' date '.csv'],tosave)
+        save([fileName '_' date '.mat'],'res')
       
 end
 fprintf('\n');disp('==================================================================');
 end
-
-
-[results] = EMOT main(X,Y,{’single’ 13},true,[],opts)

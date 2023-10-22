@@ -1,0 +1,36 @@
+\begin{tabular}{lrrrrr}
+\toprule
+{} &   count &             mean &           std &              min &              max \\
+\midrule
+start\_time                                        & 6384.00 & 1556728845759.57 & 2278044386.55 & 1554820288635.00 & 1565737936458.00 \\
+click\_time                                        & 6384.00 & 1556728850928.00 & 2278044210.54 & 1554820309371.00 & 1565737940252.00 \\
+finger\_time                                       & 6384.00 & 1556728849707.52 & 2278044292.67 & 1554820307957.00 & 1565737939927.00 \\
+fix\_duration                                      & 6384.00 &           108.29 &         14.38 &           100.00 &           150.00 \\
+RT                                                 & 6384.00 &          3947.95 &       3896.33 &             0.00 &         75468.00 \\
+MT                                                 & 6384.00 &          1220.48 &       3458.29 &             4.00 &         63276.00 \\
+sideResp                                           & 6384.00 &             1.55 &          0.50 &             1.00 &             2.00 \\
+psi                                                & 6151.00 &             0.25 &          0.29 &            0.00 &             3.97 \\
+csi                                                & 6151.00 &             0.19 &          0.25 &            0.00 &             3.32 \\
+zeta1                                              & 6151.00 &             0.02 &          0.07 &            0.00 &             1.32 \\
+zeta2                                              & 6151.00 &             0.04 &          0.10 &            0.00 &             1.28 \\
+semester                                           & 6168.00 &             5.21 &          2.76 &             1.00 &            14.00 \\
+age                                                & 6192.00 &            20.31 &          2.53 &            16.00 &            38.00 \\
+gender                                             & 6192.00 &             0.55 &          0.50 &             0.00 &             1.00 \\
+From\_Capital                                      & 5784.00 &             0.93 &          0.26 &             0.00 &             1.00 \\
+Father\_Capital                                    & 5784.00 &             0.76 &          0.42 &             0.00 &             1.00 \\
+Harmed by the conflict                             & 6192.00 &            21.98 &         27.00 &             1.00 &           100.00 \\
+Affected physically/psycologically by the conflict & 6192.00 &            19.75 &         26.03 &             1.00 &           100.00 \\
+Affected directly/indirectly by the conflict       & 6192.00 &            33.97 &         32.52 &             1.00 &           100.00 \\
+Family affected by the conflict                    & 6192.00 &            41.05 &         35.90 &             1.00 &           100.00 \\
+Conflict knowledge                                 & 6192.00 &            61.51 &         21.42 &             1.00 &           100.00 \\
+Conflict history knowledge                         & 6192.00 &            63.65 &         22.52 &             1.00 &           100.00 \\
+Peace jurisdiction(JEP) knowledge                  & 6192.00 &            64.01 &         28.90 &             1.00 &           100.00 \\
+Peace jurisdiction(JEP) changes knowledge          & 6192.00 &            56.54 &         29.84 &             1.00 &           100.00 \\
+Homosexual Marrige                                 & 6192.00 &            85.37 &         26.71 &             1.00 &           100.00 \\
+Adoption by homosexual couples                     & 6192.00 &            79.90 &         31.02 &             1.00 &           100.00 \\
+Euthanasia legalization                            & 6192.00 &            83.29 &         25.64 &             1.00 &           100.00 \\
+Abortion legalization                              & 6192.00 &            74.33 &         33.02 &             1.00 &           100.00 \\
+Marijuana legalization                             & 6192.00 &            71.79 &         33.82 &             1.00 &           100.00 \\
+Flexible gender roles                              & 6192.00 &            77.68 &         32.35 &             1.00 &           100.00 \\
+\bottomrule
+\end{tabular}
