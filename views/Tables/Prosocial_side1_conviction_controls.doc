@@ -1,0 +1,116 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx8640\clbrdrt\brdrs\cellx10800\clbrdrt\brdrs\cellx13248\clbrdrt\brdrs\cellx15696
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx8640\cellx10800\cellx13248\cellx15696
+\ql \cell\qc csi_conviction\cell\qc zeta1_conviction\cell\qc zeta2_conviction\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx8640\cellx10800\cellx13248\cellx15696
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx8640\clbrdrb\brdrs\cellx10800\clbrdrb\brdrs\cellx13248\clbrdrb\brdrs\cellx15696
+\ql VARIABLES\cell\qc csi_conviction\cell\qc zeta1_conviction\cell\qc zeta2_conviction\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx8640\cellx10800\cellx13248\cellx15696
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Pair = 1, EXG_EXG\cell\qc -0.054\cell\qc 0.060\cell\qc 0.043\cell\row
+\ql \cell\qc (0.129)\cell\qc (0.133)\cell\qc (0.125)\cell\row
+\ql Pair = 2, EXG_EXP\cell\qc -0.101\cell\qc -0.058\cell\qc 0.062\cell\row
+\ql \cell\qc (0.145)\cell\qc (0.149)\cell\qc (0.140)\cell\row
+\ql Pair = 3, EXG_STU\cell\qc 0.085\cell\qc -0.070\cell\qc -0.028\cell\row
+\ql \cell\qc (0.077)\cell\qc (0.079)\cell\qc (0.074)\cell\row
+\ql Pair = 4, EXG_VIC\cell\qc 0.022\cell\qc 0.111\cell\qc -0.271***\cell\row
+\ql \cell\qc (0.109)\cell\qc (0.112)\cell\qc (0.104)\cell\row
+\ql Pair = 5, EXP_EXG\cell\qc -0.222*\cell\qc 0.139\cell\qc 0.034\cell\row
+\ql \cell\qc (0.132)\cell\qc (0.137)\cell\qc (0.129)\cell\row
+\ql Pair = 6, EXP_EXP\cell\qc 0.023\cell\qc -0.090\cell\qc 0.065\cell\row
+\ql \cell\qc (0.135)\cell\qc (0.140)\cell\qc (0.132)\cell\row
+\ql Pair = 7, EXP_STU\cell\qc -0.122\cell\qc 0.037\cell\qc -0.078\cell\row
+\ql \cell\qc (0.077)\cell\qc (0.080)\cell\qc (0.075)\cell\row
+\ql Pair = 8, EXP_VIC\cell\qc -0.105\cell\qc 0.128\cell\qc 0.031\cell\row
+\ql \cell\qc (0.112)\cell\qc (0.114)\cell\qc (0.106)\cell\row
+\ql Pair = 9, VIC_EXG\cell\qc -0.164\cell\qc 0.028\cell\qc 0.017\cell\row
+\ql \cell\qc (0.152)\cell\qc (0.157)\cell\qc (0.148)\cell\row
+\ql Pair = 10, VIC_EXP\cell\qc 0.220\cell\qc 0.160\cell\qc 0.047\cell\row
+\ql \cell\qc (0.149)\cell\qc (0.154)\cell\qc (0.145)\cell\row
+\ql Pair = 11, VIC_STU\cell\qc 0.238***\cell\qc 0.060\cell\qc 0.067\cell\row
+\ql \cell\qc (0.082)\cell\qc (0.085)\cell\qc (0.081)\cell\row
+\ql Pair = 12, VIC_VIC\cell\qc 0.118\cell\qc 0.212*\cell\qc 0.045\cell\row
+\ql \cell\qc (0.120)\cell\qc (0.124)\cell\qc (0.117)\cell\row
+\ql Pair = 13, YOU_EXG\cell\qc 0.071\cell\qc 0.088\cell\qc 0.046\cell\row
+\ql \cell\qc (0.075)\cell\qc (0.078)\cell\qc (0.073)\cell\row
+\ql Pair = 14, YOU_EXP\cell\qc -0.036\cell\qc 0.038\cell\qc -0.020\cell\row
+\ql \cell\qc (0.081)\cell\qc (0.084)\cell\qc (0.079)\cell\row
+\ql Pair = 16, YOU_VIC\cell\qc 0.031\cell\qc 0.144**\cell\qc -0.039\cell\row
+\ql \cell\qc (0.067)\cell\qc (0.068)\cell\qc (0.064)\cell\row
+\ql RT\cell\qc -0.000\cell\qc -0.000*\cell\qc 0.000*\cell\row
+\ql \cell\qc (0.000)\cell\qc (0.000)\cell\qc (0.000)\cell\row
+\ql MT\cell\qc -0.000***\cell\qc -0.000***\cell\qc -0.000***\cell\row
+\ql \cell\qc (0.000)\cell\qc (0.000)\cell\qc (0.000)\cell\row
+\ql semester\cell\qc 0.003\cell\qc 0.017\cell\qc -0.003\cell\row
+\ql \cell\qc (0.012)\cell\qc (0.011)\cell\qc (0.009)\cell\row
+\ql age\cell\qc 0.034**\cell\qc 0.004\cell\qc -0.008\cell\row
+\ql \cell\qc (0.014)\cell\qc (0.012)\cell\qc (0.010)\cell\row
+\ql gender_y\cell\qc 0.108*\cell\qc -0.024\cell\qc -0.020\cell\row
+\ql \cell\qc (0.060)\cell\qc (0.053)\cell\qc (0.043)\cell\row
+\ql Harmed by the conflict\cell\qc -0.002\cell\qc 0.001\cell\qc 0.000\cell\row
+\ql \cell\qc (0.002)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Affected physically/psycologically by the conflict\cell\qc 0.002\cell\qc 0.002\cell\qc 0.001\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Affected directly/indirectly by the conflict\cell\qc 0.001\cell\qc -0.001\cell\qc -0.000\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Family affected by the conflict\cell\qc 0.000\cell\qc -0.001\cell\qc 0.000\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Conflict knowledge\cell\qc 0.000\cell\qc -0.000\cell\qc 0.001\cell\row
+\ql \cell\qc (0.002)\cell\qc (0.002)\cell\qc (0.001)\cell\row
+\ql Conflict history knowledge\cell\qc 0.000\cell\qc 0.001\cell\qc -0.001\cell\row
+\ql \cell\qc (0.002)\cell\qc (0.002)\cell\qc (0.001)\cell\row
+\ql Peace jurisdiction(JEP) knowledge\cell\qc 0.000\cell\qc 0.001\cell\qc -0.001\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Peace jurisdiction(JEP) changes knowledge\cell\qc -0.001\cell\qc -0.001\cell\qc 0.001\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Homosexual Marrige\cell\qc 0.002\cell\qc 0.002\cell\qc 0.003**\cell\row
+\ql \cell\qc (0.002)\cell\qc (0.002)\cell\qc (0.001)\cell\row
+\ql Adoption by homosexual couples\cell\qc -0.000\cell\qc -0.001\cell\qc -0.000\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Euthanasia legalization\cell\qc -0.001\cell\qc 0.002*\cell\qc 0.001\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Abortion legalization\cell\qc 0.001\cell\qc -0.001\cell\qc -0.002*\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Marijuana legalization\cell\qc -0.001\cell\qc -0.001\cell\qc 0.000\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Flexible gender roles\cell\qc -0.000\cell\qc -0.000\cell\qc -0.001**\cell\row
+\ql \cell\qc (0.001)\cell\qc (0.001)\cell\qc (0.001)\cell\row
+\ql Carrer = 2, Artes\cell\qc 0.128\cell\qc 0.045\cell\qc 0.039\cell\row
+\ql \cell\qc (0.190)\cell\qc (0.164)\cell\qc (0.133)\cell\row
+\ql Carrer = 3, Ciencias\cell\qc 0.105\cell\qc 0.026\cell\qc -0.058\cell\row
+\ql \cell\qc (0.140)\cell\qc (0.121)\cell\qc (0.099)\cell\row
+\ql Carrer = 4, Ciencias Economicas y Administrativas\cell\qc -0.042\cell\qc -0.015\cell\qc 0.059\cell\row
+\ql \cell\qc (0.114)\cell\qc (0.100)\cell\qc (0.083)\cell\row
+\ql Carrer = 5, Ciencias Juridicas\cell\qc 0.171\cell\qc -0.154\cell\qc 0.146\cell\row
+\ql \cell\qc (0.174)\cell\qc (0.152)\cell\qc (0.125)\cell\row
+\ql Carrer = 6, Ciencias Politicas y Relaciones Internacionales\cell\qc -0.057\cell\qc -0.080\cell\qc -0.115\cell\row
+\ql \cell\qc (0.162)\cell\qc (0.141)\cell\qc (0.115)\cell\row
+\ql Carrer = 7, Ciencias Sociales\cell\qc 0.057\cell\qc 0.050\cell\qc -0.142\cell\row
+\ql \cell\qc (0.143)\cell\qc (0.125)\cell\qc (0.103)\cell\row
+\ql Carrer = 8, Comunicacion y Lenguaje\cell\qc 0.102\cell\qc 0.068\cell\qc 0.040\cell\row
+\ql \cell\qc (0.126)\cell\qc (0.109)\cell\qc (0.089)\cell\row
+\ql Carrer = 9, Educacion\cell\qc -0.339\cell\qc 0.202\cell\qc -0.370\cell\row
+\ql \cell\qc (0.373)\cell\qc (0.332)\cell\qc (0.279)\cell\row
+\ql Carrer = 10, Enfermeria\cell\qc 0.139\cell\qc 0.080\cell\qc -0.036\cell\row
+\ql \cell\qc (0.239)\cell\qc (0.209)\cell\qc (0.172)\cell\row
+\ql Carrer = 11, Filosofia\cell\qc 0.256\cell\qc -0.135\cell\qc -0.012\cell\row
+\ql \cell\qc (0.388)\cell\qc (0.324)\cell\qc (0.255)\cell\row
+\ql Carrer = 12, Ingenieria\cell\qc 0.018\cell\qc -0.066\cell\qc -0.009\cell\row
+\ql \cell\qc (0.115)\cell\qc (0.100)\cell\qc (0.082)\cell\row
+\ql Carrer = 13, Medicina/Nutricion\cell\qc -0.004\cell\qc -0.028\cell\qc -0.101\cell\row
+\ql \cell\qc (0.203)\cell\qc (0.177)\cell\qc (0.145)\cell\row
+\ql Carrer = 14, Odontologia\cell\qc -0.292\cell\qc -0.146\cell\qc -0.345\cell\row
+\ql \cell\qc (0.310)\cell\qc (0.265)\cell\qc (0.214)\cell\row
+\ql Carrer = 15, Psicologia\cell\qc -0.287*\cell\qc -0.129\cell\qc 0.033\cell\row
+\ql \cell\qc (0.156)\cell\qc (0.136)\cell\qc (0.112)\cell\row
+\ql Constant\cell\qc -0.720**\cell\qc -0.238\cell\qc 0.176\cell\row
+\ql \cell\qc (0.313)\cell\qc (0.275)\cell\qc (0.228)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 2,676\cell\qc 2,676\cell\qc 2,676\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx8640\clbrdrb\brdrs\cellx10800\clbrdrb\brdrs\cellx13248\clbrdrb\brdrs\cellx15696
+\ql Number of id_x\cell\qc 250\cell\qc 250\cell\qc 250\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

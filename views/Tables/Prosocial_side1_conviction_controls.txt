@@ -1,0 +1,107 @@
+		(1)	(2)	(3)
+		csi_conviction	zeta1_conviction	zeta2_conviction
+VARIABLES	LABELS	csi_conviction	zeta1_conviction	zeta2_conviction
+				
+1.Pair	Pair = 1, EXG_EXG	-0.054	0.060	0.043
+		(0.129)	(0.133)	(0.125)
+2.Pair	Pair = 2, EXG_EXP	-0.101	-0.058	0.062
+		(0.145)	(0.149)	(0.140)
+3.Pair	Pair = 3, EXG_STU	0.085	-0.070	-0.028
+		(0.077)	(0.079)	(0.074)
+4.Pair	Pair = 4, EXG_VIC	0.022	0.111	-0.271***
+		(0.109)	(0.112)	(0.104)
+5.Pair	Pair = 5, EXP_EXG	-0.222*	0.139	0.034
+		(0.132)	(0.137)	(0.129)
+6.Pair	Pair = 6, EXP_EXP	0.023	-0.090	0.065
+		(0.135)	(0.140)	(0.132)
+7.Pair	Pair = 7, EXP_STU	-0.122	0.037	-0.078
+		(0.077)	(0.080)	(0.075)
+8.Pair	Pair = 8, EXP_VIC	-0.105	0.128	0.031
+		(0.112)	(0.114)	(0.106)
+9.Pair	Pair = 9, VIC_EXG	-0.164	0.028	0.017
+		(0.152)	(0.157)	(0.148)
+10.Pair	Pair = 10, VIC_EXP	0.220	0.160	0.047
+		(0.149)	(0.154)	(0.145)
+11.Pair	Pair = 11, VIC_STU	0.238***	0.060	0.067
+		(0.082)	(0.085)	(0.081)
+12.Pair	Pair = 12, VIC_VIC	0.118	0.212*	0.045
+		(0.120)	(0.124)	(0.117)
+13.Pair	Pair = 13, YOU_EXG	0.071	0.088	0.046
+		(0.075)	(0.078)	(0.073)
+14.Pair	Pair = 14, YOU_EXP	-0.036	0.038	-0.020
+		(0.081)	(0.084)	(0.079)
+16.Pair	Pair = 16, YOU_VIC	0.031	0.144**	-0.039
+		(0.067)	(0.068)	(0.064)
+RT	RT	-0.000	-0.000*	0.000*
+		(0.000)	(0.000)	(0.000)
+MT	MT	-0.000***	-0.000***	-0.000***
+		(0.000)	(0.000)	(0.000)
+semester	semester	0.003	0.017	-0.003
+		(0.012)	(0.011)	(0.009)
+age	age	0.034**	0.004	-0.008
+		(0.014)	(0.012)	(0.010)
+gender_y	gender_y	0.108*	-0.024	-0.020
+		(0.060)	(0.053)	(0.043)
+Harmedbytheconflict	Harmed by the conflict	-0.002	0.001	0.000
+		(0.002)	(0.001)	(0.001)
+Affectedphysicallypsycologically	Affected physically/psycologically by the conflict	0.002	0.002	0.001
+		(0.001)	(0.001)	(0.001)
+Affecteddirectlyindirectlybythec	Affected directly/indirectly by the conflict	0.001	-0.001	-0.000
+		(0.001)	(0.001)	(0.001)
+Familyaffectedbytheconflict	Family affected by the conflict	0.000	-0.001	0.000
+		(0.001)	(0.001)	(0.001)
+Conflictknowledge	Conflict knowledge	0.000	-0.000	0.001
+		(0.002)	(0.002)	(0.001)
+Conflicthistoryknowledge	Conflict history knowledge	0.000	0.001	-0.001
+		(0.002)	(0.002)	(0.001)
+PeacejurisdictionJEPknowledge	Peace jurisdiction(JEP) knowledge	0.000	0.001	-0.001
+		(0.001)	(0.001)	(0.001)
+PeacejurisdictionJEPchangesknowl	Peace jurisdiction(JEP) changes knowledge	-0.001	-0.001	0.001
+		(0.001)	(0.001)	(0.001)
+HomosexualMarrige	Homosexual Marrige	0.002	0.002	0.003**
+		(0.002)	(0.002)	(0.001)
+Adoptionbyhomosexualcouples	Adoption by homosexual couples	-0.000	-0.001	-0.000
+		(0.001)	(0.001)	(0.001)
+Euthanasialegalization	Euthanasia legalization	-0.001	0.002*	0.001
+		(0.001)	(0.001)	(0.001)
+Abortionlegalization	Abortion legalization	0.001	-0.001	-0.002*
+		(0.001)	(0.001)	(0.001)
+Marijuanalegalization	Marijuana legalization	-0.001	-0.001	0.000
+		(0.001)	(0.001)	(0.001)
+Flexiblegenderroles	Flexible gender roles	-0.000	-0.000	-0.001**
+		(0.001)	(0.001)	(0.001)
+2.Carrer	Carrer = 2, Artes	0.128	0.045	0.039
+		(0.190)	(0.164)	(0.133)
+3.Carrer	Carrer = 3, Ciencias	0.105	0.026	-0.058
+		(0.140)	(0.121)	(0.099)
+4.Carrer	Carrer = 4, Ciencias Economicas y Administrativas	-0.042	-0.015	0.059
+		(0.114)	(0.100)	(0.083)
+5.Carrer	Carrer = 5, Ciencias Juridicas	0.171	-0.154	0.146
+		(0.174)	(0.152)	(0.125)
+6.Carrer	Carrer = 6, Ciencias Politicas y Relaciones Internacionales	-0.057	-0.080	-0.115
+		(0.162)	(0.141)	(0.115)
+7.Carrer	Carrer = 7, Ciencias Sociales	0.057	0.050	-0.142
+		(0.143)	(0.125)	(0.103)
+8.Carrer	Carrer = 8, Comunicacion y Lenguaje	0.102	0.068	0.040
+		(0.126)	(0.109)	(0.089)
+9.Carrer	Carrer = 9, Educacion	-0.339	0.202	-0.370
+		(0.373)	(0.332)	(0.279)
+10.Carrer	Carrer = 10, Enfermeria	0.139	0.080	-0.036
+		(0.239)	(0.209)	(0.172)
+11.Carrer	Carrer = 11, Filosofia	0.256	-0.135	-0.012
+		(0.388)	(0.324)	(0.255)
+12.Carrer	Carrer = 12, Ingenieria	0.018	-0.066	-0.009
+		(0.115)	(0.100)	(0.082)
+13.Carrer	Carrer = 13, Medicina/Nutricion	-0.004	-0.028	-0.101
+		(0.203)	(0.177)	(0.145)
+14.Carrer	Carrer = 14, Odontologia	-0.292	-0.146	-0.345
+		(0.310)	(0.265)	(0.214)
+15.Carrer	Carrer = 15, Psicologia	-0.287*	-0.129	0.033
+		(0.156)	(0.136)	(0.112)
+Constant	Constant	-0.720**	-0.238	0.176
+		(0.313)	(0.275)	(0.228)
+				
+Observations		2,676	2,676	2,676
+Number of id_x		250	250	250
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

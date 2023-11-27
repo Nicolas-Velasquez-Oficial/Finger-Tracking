@@ -33,7 +33,7 @@ Marijuanalegalization Flexiblegenderroles i.Carrer
 ********************************************************************************
 **********Dependent standarizadas for conviction proxy**************************
 preserve
-sum csi zeta1 zeta2
+sum psi csi zeta1 zeta2
 g csi_conviction= ((csi-.1856129 )/.2491943)*-1
 g zeta1_conviction= ((zeta1-.0218141)/.068139 )*-1
 g zeta2_conviction= ((zeta2-.0428116 )/.0993172)*-1
@@ -182,7 +182,7 @@ outreg2 [zeta2_conviction_tot  zeta2_conviction_exg zeta2_conviction_exp zeta2_c
 restore
 
 ********************************************************************************
-**********Tabals de resultados con efectos fijos para csi-conviction, zeta1-conviction y zeta2-conviction********
+**********Tablas de resultados con efectos fijos para csi-conviction, zeta1-conviction y zeta2-conviction********
 *****************************Side_resp_1 Solo desiciones Prosociales***************
 preserve
 keep if sideResp==1
@@ -222,7 +222,7 @@ est store zeta2_conviction
 outreg2 [csi_conviction zeta1_conviction zeta2_conviction] using Prosocial_side1_conviction_controls.doc , tex replace append label dec(3)
 
 restore
-*********Tabals de resultados con efectos fijos para csi-conviction, zeta1-conviction y zeta2-conviction*********
+*********Tablas de resultados con efectos fijos para csi-conviction, zeta1-conviction y zeta2-conviction*********
 *****************************Side_resp_1 Solo desiciones Egositas************
 preserve
 keep if sideResp==2
@@ -245,13 +245,13 @@ ssc install outreg2
 
 outreg2 [csi_conviction zeta1_conviction zeta2_conviction] using Prosocial_side2_conviction.doc , tex replace append label dec(3)
 
-xtreg csi_conviction ib(15).Pair $sociodemograficas ,be
+xtreg csi_conviction ib(15).Pair $sociodemograficas ,re
 est store csi_conviction
 
-xtreg zeta1_conviction ib(15).Pair $sociodemograficas ,be
+xtreg zeta1_conviction ib(15).Pair $sociodemograficas ,re
 est store zeta1_conviction
 
-xtreg zeta2_conviction ib(15).Pair $sociodemograficas ,be
+xtreg zeta2_conviction ib(15).Pair $sociodemograficas ,re
 
 est store zeta2_conviction
 outreg2 [csi_conviction zeta1_conviction zeta2_conviction] using Prosocial_side2_conviction_controls.doc , tex replace append label dec(3)
@@ -381,3 +381,56 @@ xtreg zeta2_conviction ib(1).sideResp Log_RT Log_MT , fe
 est store zeta2_conviction
 
 outreg2 [csi_conviction zeta1_conviction zeta2_conviction] using Temporal_conviction.doc , tex replace append label dec(3)
+
+*********************************************************************************
+*********************************************************************************
+*********************************************************************************
+*********************************************************************************
+
+gen Treatment=.
+replace Treatment=0 if Pair==15 
+replace Treatment=1 if Pair==13 | Pair==14 | Pair==16
+replace Treatment=2 if Pair==3 | Pair==7 | Pair==11
+replace Treatment=3 if Treatment==.
+
+label define treat 0 "Self-Student" 1 "Self-Other Rol" 2 "Other Rol-Student" 3 "Other Rol- Other Rol", modify
+label values Treatment treat
+
+preserve
+keep if sideResp==1
+sum psi csi zeta1 zeta2
+g psi_conviction= ((psi- .2412065  )/.2756077 )*-1
+g csi_conviction= ((csi- .1933447  )/.2386284 )*-1
+g zeta1_conviction= ((zeta1-.045862)/.0916293 )*-1
+g zeta2_conviction= ((zeta2-.0019999)/.0251537 )*-1
+
+sum csi_conviction zeta1_conviction zeta2_conviction
+
+xtset id_x trial, g
+xtdescribe 
+
+xtreg csi_conviction i.Treatment RT MT , fe
+est store csi_conviction
+
+xtreg zeta1_conviction i.Treatment RT MT, fe
+est store zeta1_conviction
+
+xtreg zeta2_conviction i.Treatment RT MT, fe
+est store zeta2_conviction
+
+ssc install outreg2
+
+outreg2 [csi_conviction zeta1_conviction zeta2_conviction] using Prosocial_side1_conviction.doc , tex replace append label dec(3)
+
+
+xtreg csi_conviction ib(15).Pair $sociodemograficas ,re
+est store csi_conviction
+
+xtreg zeta1_conviction ib(15).Pair $sociodemograficas ,re
+est store zeta1_conviction
+
+xtreg zeta2_conviction ib(15).Pair $sociodemograficas ,re
+est store zeta2_conviction
+outreg2 [csi_conviction zeta1_conviction zeta2_conviction] using Prosocial_side1_conviction_controls.doc , tex replace append label dec(3)
+
+restore
